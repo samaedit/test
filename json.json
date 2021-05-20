@@ -1,0 +1,24 @@
+{
+"apps": [
+{
+"app_interstitial_url": "https://play-lh.googleusercontent.com/Otd-5bQK_pL5fy7AwiwMY7eCTRCEBGh2RL_0FHDeiA-kAYPoVLglugdP7LxvjdlgCA=w908-h904",
+"app_uri": "https://play.google.com/store/apps/details?id=com.mgc.miami.crime.simulator.two",
+"app_adType": "interstitial"
+},
+{
+"app_interstitial_url": "https://play-lh.googleusercontent.com/0qxTsskx4HSG6zK3DFqeWOZ-lfqatT8g0iCj-KrnUl6Ar85xJIAvpCLWGyPfkp5XadwF=w720-h310",
+"app_uri": "https://play.google.com/store/apps/details?id=com.flying.tractor.simulator",
+"app_adType": "interstitial"
+},
+{
+"app_interstitial_url": "https://play-lh.googleusercontent.com/nD_oLX_i72BIW6hrhHJ_Fep_FPTOo7JOHG0ytd9674Z33SbEsJqRCXHLqo_vxNe5=w720-h310",
+"app_uri": "https://play.google.com/store/apps/details?id=com.playten.superhero.cargames.taxi.sim.taxicardrivingsimulator.taxigame",
+"app_adType": "interstitial"
+},
+{
+"app_interstitial_url": "https://play-lh.googleusercontent.com/xsBLMTYdLvDx3x3ks1w4GSVjDJYgHVxdFFRUio3wZ_CBPhAs3iQSIUsHW1NLHf0f8eVw=w720-h310",
+"app_uri": "https://play.google.com/store/apps/details?id=com.superhero.speed.bike.taxi.div.simulator.games",
+"app_adType": "interstitial"
+}
+]
+}
