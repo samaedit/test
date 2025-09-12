@@ -1,1 +1,19 @@
-
+{
+"apps": [
+{
+"app_interstitial_url": "https://play-lh.googleusercontent.com/hhM9pbcdidGay9K6_9E__KZnQOo7xSEQbRI6qqrsosc9qAuFk26qnDwoHCFl6DA10clyDc5LF3EUgAJg3skTcw=w4160-h2305-rw",
+"app_uri": "https://play.google.com/store/apps/details?id=com.grand.stickman.ropehero.mafia.alphas&hl=en_NZ",
+"app_adType": "interstitial"
+},
+{
+"app_interstitial_url": https://play-lh.googleusercontent.com/dmK3SYbAxNQovwNoFLxPiOd_dFq7nbW7KPmQlxk_2LO29VQ5HHLHHud9vdJoE38nLTID=w4106-h2035-rw",
+"app_uri": "https://play.google.com/store/apps/details?id=com.car.racer.map.town",
+"app_adType": "interstitial"
+},
+{
+"app_interstitial_url": "https://play-lh.googleusercontent.com/xGoMJGezXEcGWeJb_NhieobgU2XJmo7twX8Q9tTHmbXYoYv-u4rGX9k_VJawVMDlUi-ytTqU98qDftGLzRji=w4016-h2035-rw",
+"app_uri": "https://play.google.com/store/apps/details?id=com.spider.obbydays.forest",
+"app_adType": "interstitial"
+}
+]
+}
