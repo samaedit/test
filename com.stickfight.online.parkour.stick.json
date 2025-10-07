@@ -1,6 +1,6 @@
 {
    "click_count":15000,
-   "interval_sec": 30000,
+   "interval_sec": 300000000,
    "ad_id":"Y2EtYXBwLXB1Yi0zMDQ1NzY4ODYyNDA2MjMwLzc2NzMzMTA4NDk=",
    "banner_ad_id":"Y2EtYXBwLXB1Yi0zMDQ1NzY4ODYyNDA2MjMwLzgyNDgxNDk2MjU=",
    "reward_click_count":2500,
