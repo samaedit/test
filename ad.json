@@ -1,4 +1,6 @@
 {
+  "on": true,
   "text": "🔥 New Update! Try our latest game!",
-  "image": "https://raw.githubusercontent.com/samaedit/test/refs/heads/main/ad_image.jpg"
+  "image": "https://raw.githubusercontent.com/samaedit/test/refs/heads/main/ad_image.jpg",
+  "link": "https://play.google.com/store/apps/details?id=com.example.newgame"
 }
