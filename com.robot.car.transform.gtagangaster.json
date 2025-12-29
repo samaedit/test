@@ -1,9 +1,9 @@
 {
    "click_count":150000,
-   "interval_sec": 9000030,
-   "ad_id":"Y2EtYXBwLXB1Yi0zMDQ1NzY4ODYyNDA2MjMwLzU5OTgwMTM4OTQ=",
+   "interval_sec": 60,
+   "ad_id":"Y2EtYXBwLXB1Yi0zMDQ1NzY4ODYyNDA2MjMwLzU1NzAyMjcwNzE=",
    "banner_ad_id":"Y2EtYXBwLXB1Yi0zMDQ1NzY4ODYyNDA2MjMwLzYzMDM1MzcxNjY=",
    "reward_click_count":250000,
-   "rewarderer_ad_id":"Y2EtYXBwLXB1Yi0zMDQ1NzY4ODYyNDA2MjMwLzM2NzczNzM4MjU=",
-   "openapp_ad_id":"Y2EtYXBwLXB1Yi0zMDQ1NzY4ODYyNDA2MjMwLzc1NTY2MTAwNTE="
+   "rewarderer_ad_id":"Y2EtYXBwLXB1Yi0zMDQ1NzY4ODYyNDA2MjMwLzM1NDE5Nzk0NzM=",
+   "openapp_ad_id":"Y2EtYXBwLXB1Yi0zMDQ1NzY4ODYyNDA2MjMwLzc5ODA3Njc5OTY="
 }
